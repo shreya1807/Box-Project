@@ -1,1 +1,1 @@
-# Box-Project
+# Box Class
